@@ -7,7 +7,7 @@ I have my potential, passion and ability to learn fast. I don't think that every
 
 ### Contacts
 
-Cell: +380 66 85 66 
+Cell: +380 66 85 66 77
 
 E-mail: galinavikst@gmail.com
 
