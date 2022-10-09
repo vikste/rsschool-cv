@@ -15,3 +15,50 @@ LinkedIn: http://linkedin.com/in/halyna-stepanenko-a57948177
 
 GIT: https://github.com/galinavikst
 
+### Languages
+
+- Ukrainian - Native
+- Russian - Fluent
+- English - B1
+
+### Tech Skills
+
+- Microsoft Excel
+- Google Sheets
+- HTML5
+- CSS3
+- GIT
+- JavaScript
+- Bootstrap
+
+### Soft Skills
+
+- GTD
+- SCRUM
+- Agile
+- Organized
+- Result oriented
+- Attentive to details
+- Quick learner
+- Responcible
+- Teamwork
+- Creative spirit
+- Hobbies
+- Choreography
+- Photography
+- Floristic
+
+### Projects
+
+1. https://magical-babka-8e43ae.netlify.app/............... [ HTML5, CSS3 ]
+2. https://sparkly-raindrop-0a0717.netlify.app/.............. [ JavaScript ]
+
+### Education
+
+_GoIT Academy_
+Frontend Developer demo-course
+September 2022 | Ukraine
+
+_SheCodes Foundation_
+Frontend Developer
+Aprile 2022 - October 2022 | Europe
